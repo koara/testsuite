@@ -1,12 +1,11 @@
 <document>
   <list ordered="false">
     <listitem>
-      <codeblock>
-d
+      <codeblock>d
 b
 
 test
-test      </codeblock>
+test</codeblock>
     </listitem>
   </list>
 </document>

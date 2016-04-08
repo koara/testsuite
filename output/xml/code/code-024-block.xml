@@ -1,6 +1,5 @@
 <document>
-  <codeblock>
-function greeting() {
+  <codeblock>function greeting() {
   console.log(&quot;Hello World&quot;);
-}  </codeblock>
+}</codeblock>
 </document>

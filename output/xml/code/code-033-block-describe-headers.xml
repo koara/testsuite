@@ -6,11 +6,10 @@
     </code>
     <text>)</text>
   </heading>
-  <codeblock>
-= Header 1
+  <codeblock>= Header 1
 == Header 2
 === Header 3
 ==== Header 4
 ===== Header 5
-====== Header 6  </codeblock>
+====== Header 6</codeblock>
 </document>

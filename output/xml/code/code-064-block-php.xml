@@ -1,6 +1,5 @@
 <document>
-  <codeblock language="php">
-&lt;?php
+  <codeblock language="php">&lt;?php
 
 /** Sets up the WordPress Environment. */
 require( dirname(__FILE__) . '/wp-load.php' );
@@ -731,5 +730,5 @@ if ( $active_signup == 'none' ) {
  */
 do_action( 'after_signup_form' ); ?&gt;
 
-&lt;?php get_footer(); ?&gt;  </codeblock>
+&lt;?php get_footer(); ?&gt;</codeblock>
 </document>

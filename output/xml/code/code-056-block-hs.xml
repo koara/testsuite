@@ -1,6 +1,5 @@
 <document>
-  <codeblock language="hs">
-module Main where
+  <codeblock language="hs">module Main where
 
 -- Import statements: necessary to use functions from modules like Data.Char
 -- (for toUpper) and System.Random (for randomRIO).
@@ -236,5 +235,5 @@ playAGame nLives = do
 -- `IO ()`.
 
 main :: IO ()
-main = playAGame defaultNLives  </codeblock>
+main = playAGame defaultNLives</codeblock>
 </document>
