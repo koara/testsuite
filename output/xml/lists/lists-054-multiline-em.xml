@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <list ordered="false">
+    <listitem>
+      <paragraph>
+        <text>Adding </text>
+        <em>
+          <text>multiline</text>
+          <linebreak />
+          <text>em text</text>
+        </em>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

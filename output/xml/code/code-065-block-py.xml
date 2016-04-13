@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <document>
-  <codeblock language="py">&quot;&quot;&quot;
+  <codeblock language="py">
+&quot;&quot;&quot;
 Flask
 -----
 
@@ -87,5 +89,5 @@ setup(
         [console_scripts]
         flask=flask.cli:main
     '''
-)</codeblock>
+)  </codeblock>
 </document>

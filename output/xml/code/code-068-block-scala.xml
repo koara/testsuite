@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <document>
-  <codeblock language="scala">/*                     __                                               *\
+  <codeblock language="scala">
+/*                     __                                               *\
 **     ________ ___   / /  ___     Scala API                            **
 **    / __/ __// _ | / /  / _ |    (c) 2003-2011, LAMP/EPFL             **
 **  __\ \/ /__/ __ |/ /__/ __ |    http://scala-lang.org/               **
@@ -147,5 +149,5 @@ object MurmurHash {
     h = extendHash(h, c, storedMagicA(2), storedMagicB(2))
     finalizeHash(h)
   }
-}</codeblock>
+}  </codeblock>
 </document>

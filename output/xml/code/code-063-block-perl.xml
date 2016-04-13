@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <document>
-  <codeblock language="perl">package Mojo::IOLoop::Client;
+  <codeblock language="perl">
+package Mojo::IOLoop::Client;
 use Mojo::Base 'Mojo::EventEmitter';
 
 use Errno 'EINPROGRESS';
@@ -356,5 +358,5 @@ Path to the TLS key file.
 
 L&lt;Mojolicious&gt;, L&lt;Mojolicious::Guides&gt;, L&lt;http://mojolicio.us&gt;.
 
-=cut</codeblock>
+=cut  </codeblock>
 </document>

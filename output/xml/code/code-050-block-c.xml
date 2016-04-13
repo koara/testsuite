@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <document>
-  <codeblock language="c">/* Redis Cluster implementation.
+  <codeblock language="c">
+/* Redis Cluster implementation.
  *
  * Copyright (c) 2009-2012, Salvatore Sanfilippo &lt;antirez at gmail dot com&gt;
  * All rights reserved.
@@ -5005,5 +5007,5 @@ int clusterRedirectBlockedClientIfNeeded(redisClient *c) {
         dictReleaseIterator(di);
     }
     return 0;
-}</codeblock>
+}  </codeblock>
 </document>
