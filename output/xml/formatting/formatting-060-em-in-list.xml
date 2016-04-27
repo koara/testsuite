@@ -6,7 +6,7 @@
         <em>
           <text>multiline</text>
           <linebreak />
-          <text>em text</text>
+          <text>  em text</text>
         </em>
       </paragraph>
     </listitem>

@@ -6,7 +6,7 @@
         <strong>
           <text>multiline</text>
           <linebreak />
-          <text>strong text</text>
+          <text>  strong text</text>
         </strong>
       </paragraph>
     </listitem>
