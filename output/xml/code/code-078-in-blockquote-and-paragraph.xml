@@ -1,4 +1,8 @@
 <document>
-  <codeblock language="a&quot;">a</codeblock>
-  <paragraph>b</paragraph>
+  <blockquote>
+      <codeblock>a</codeblock>
+      <paragraph>
+        <text>b</text>
+      </paragraph>
+  </blockquote>
 </document>
