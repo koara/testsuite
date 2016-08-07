@@ -1,7 +1,7 @@
 <document>
   <paragraph>
-    <text>Use the return key for lines</text>
+    <text>If you want to create a line break,</text>
     <linebreak />
-    <text>that need a break.</text>
+    <text>end a line with two or more spaces</text>
   </paragraph>
 </document>
