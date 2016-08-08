@@ -1,7 +1,0 @@
-<document>
-  <paragraph>
-    <text>If you want to create a line break,</text>
-    <linebreak />
-    <text>end a line with two or more spaces</text>
-  </paragraph>
-</document>
