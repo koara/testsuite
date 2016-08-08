@@ -1,0 +1,21 @@
+<document>
+  <paragraph>
+    <text>∮ E⋅da = Q,  n → ∞, ∑ f(i) = ∏ g(i),      ⎧⎡⎛┌─────┐⎞⎤⎫</text>
+    <linebreak explicit="true"/>
+    <text>⎪⎢⎜│a²+b³ ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>∀x∈ℝ: ⌈x⌉ = −⌊−x⌋, α ∧ ¬β = ¬(¬α ∨ β),    ⎪⎢⎜│───── ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>⎪⎢⎜⎷ c₈   ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>ℕ ⊆ ℕ₀ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ,                   ⎨⎢⎜       ⎟⎥⎬</text>
+    <linebreak explicit="true"/>
+    <text>⎪⎢⎜ ∞     ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>⊥ &lt; a ≠ b ≡ c ≤ d ≪ ⊤ ⇒ (⟦A⟧ ⇔ ⟪B⟫),      ⎪⎢⎜ ⎲     ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>⎪⎢⎜ ⎳aⁱ-bⁱ⎟⎥⎪</text>
+    <linebreak explicit="true"/>
+    <text>2H₂ + O₂ ⇌ 2H₂O, R = 4.7 kΩ, ⌀ 200 mm     ⎩⎣⎝i=1    ⎠⎦⎭</text>
+  </paragraph>
+</document>

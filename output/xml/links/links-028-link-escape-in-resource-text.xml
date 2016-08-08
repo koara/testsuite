@@ -1,0 +1,8 @@
+<document>
+  <paragraph>
+    <link url="http://www.google.com">
+      <text>*</text>
+      <text>test*</text>
+    </link>
+  </paragraph>
+</document>

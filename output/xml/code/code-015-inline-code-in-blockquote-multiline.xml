@@ -1,0 +1,12 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>This block contains </text>
+        <code>
+          <text>code</text>
+          <linebreak explicit="true"/>
+          <text>over multiple lines</text>
+        </code>
+      </paragraph>
+  </blockquote>
+</document>

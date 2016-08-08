@@ -1,0 +1,11 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>this </text>
+        <em>
+          <text>is emphasized</text>
+        </em>
+        <text> text</text>
+      </paragraph>
+  </blockquote>
+</document>

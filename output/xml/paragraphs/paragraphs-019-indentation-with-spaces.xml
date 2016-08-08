@@ -1,0 +1,7 @@
+<document>
+  <paragraph>
+    <text>Indentation occurs</text>
+    <linebreak explicit="true"/>
+    <text>on the first line.</text>
+  </paragraph>
+</document>

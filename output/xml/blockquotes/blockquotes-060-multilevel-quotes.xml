@@ -1,0 +1,15 @@
+<document>
+  <blockquote>
+      <list ordered="false">
+        <listitem>
+          <blockquote>
+              <paragraph>
+                <text>b</text>
+                <linebreak explicit="false"/>
+                <text>c</text>
+              </paragraph>
+          </blockquote>
+        </listitem>
+      </list>
+  </blockquote>
+</document>

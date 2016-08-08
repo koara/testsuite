@@ -1,0 +1,7 @@
+<document>
+  <paragraph>
+    <link url="foo):">
+      <text>link</text>
+    </link>
+  </paragraph>
+</document>

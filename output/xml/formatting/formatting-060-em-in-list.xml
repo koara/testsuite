@@ -1,0 +1,14 @@
+<document>
+  <list ordered="false">
+    <listitem>
+      <paragraph>
+        <text>Adding </text>
+        <em>
+          <text>multiline</text>
+          <linebreak explicit="true"/>
+          <text>em text</text>
+        </em>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

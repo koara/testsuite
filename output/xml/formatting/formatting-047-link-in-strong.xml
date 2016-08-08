@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <strong>
+      <link url="url">
+        <text>link</text>
+      </link>
+    </strong>
+  </paragraph>
+</document>

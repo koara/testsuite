@@ -1,0 +1,10 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>bar</text>
+      </paragraph>
+  </blockquote>
+  <paragraph>
+    <text>baz</text>
+  </paragraph>
+</document>

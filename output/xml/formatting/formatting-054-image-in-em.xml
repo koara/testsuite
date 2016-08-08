@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <em>
+      <image url="url">
+        <text>image</text>
+      </image>
+    </em>
+  </paragraph>
+</document>

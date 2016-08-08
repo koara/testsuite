@@ -1,0 +1,8 @@
+<document>
+  <paragraph>
+    <text>_</text>
+    <text>foo bar</text>
+    <linebreak explicit="false"/>
+    <text>_</text>
+  </paragraph>
+</document>

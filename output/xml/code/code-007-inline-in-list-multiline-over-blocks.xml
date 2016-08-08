@@ -1,0 +1,18 @@
+<document>
+  <list ordered="false">
+    <listitem>
+      <paragraph>
+        <text>`</text>
+        <text>Inline code can</text>
+        <linebreak explicit="false"/>
+        <text>be at more than one line</text>
+      </paragraph>
+      <paragraph>
+        <text>but never over multiple</text>
+        <linebreak explicit="false"/>
+        <text>blocks</text>
+        <text>`</text>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

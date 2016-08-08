@@ -1,0 +1,12 @@
+<document>
+  <paragraph>
+    <text>You can </text>
+    <strong>
+      <em>
+        <text>use more</text>
+        <linebreak explicit="false"/>
+        <text>then one formatting</text>
+      </em>
+    </strong>
+  </paragraph>
+</document>

@@ -1,0 +1,7 @@
+<document>
+  <paragraph>
+    <image url="src">
+      <text>&lt;a herf=&quot;#&quot;&gt;test&lt;/a&gt;</text>
+    </image>
+  </paragraph>
+</document>

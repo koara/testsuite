@@ -1,0 +1,11 @@
+<document>
+  <blockquote>
+      <blockquote>
+          <paragraph>
+            <text>one</text>
+            <linebreak explicit="true"/>
+            <text>two</text>
+          </paragraph>
+      </blockquote>
+  </blockquote>
+</document>

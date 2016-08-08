@@ -1,0 +1,10 @@
+<document>
+  <paragraph>
+    <image url="">
+      <text>image</text>
+    </image>
+    <text>(foo</text>
+    <linebreak explicit="false"/>
+    <text>bar)</text>
+  </paragraph>
+</document>

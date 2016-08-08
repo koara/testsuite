@@ -1,0 +1,10 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>one</text>
+      </paragraph>
+  </blockquote>
+  <heading level="1">
+    <text>two</text>
+  </heading>
+</document>

@@ -1,0 +1,12 @@
+<document>
+  <blockquote>
+      <heading level="1">
+        <text>Foo</text>
+      </heading>
+      <paragraph>
+        <text>bar</text>
+        <linebreak explicit="true"/>
+        <text>baz</text>
+      </paragraph>
+  </blockquote>
+</document>

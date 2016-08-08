@@ -1,0 +1,10 @@
+<document>
+  <paragraph>
+    <strong>
+      <text>a </text>
+      <code>
+        <text>*</text>
+      </code>
+    </strong>
+  </paragraph>
+</document>

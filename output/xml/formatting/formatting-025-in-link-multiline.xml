@@ -1,0 +1,11 @@
+<document>
+  <paragraph>
+    <text>[</text>
+    <strong>
+      <text>this is</text>
+      <linebreak explicit="false"/>
+      <text>not</text>
+    </strong>
+    <text>] a link</text>
+  </paragraph>
+</document>

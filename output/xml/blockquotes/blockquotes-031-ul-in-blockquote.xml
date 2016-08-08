@@ -1,0 +1,16 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>hello</text>
+      </paragraph>
+      <list ordered="false">
+        <listitem>
+          <paragraph>
+            <text>this is a list</text>
+            <linebreak explicit="true"/>
+            <text>there</text>
+          </paragraph>
+        </listitem>
+      </list>
+  </blockquote>
+</document>

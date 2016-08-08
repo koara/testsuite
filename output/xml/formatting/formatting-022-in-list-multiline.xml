@@ -1,0 +1,15 @@
+<document>
+  <list ordered="false">
+    <listitem>
+      <paragraph>
+        <text>You can </text>
+        <strong>
+          <text>format</text>
+          <linebreak explicit="true"/>
+          <text>multiple lines</text>
+        </strong>
+        <text> in list items</text>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

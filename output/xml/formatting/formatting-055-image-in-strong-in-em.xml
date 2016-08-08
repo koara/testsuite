@@ -1,0 +1,11 @@
+<document>
+  <paragraph>
+    <em>
+      <strong>
+        <image url="url">
+          <text>image</text>
+        </image>
+      </strong>
+    </em>
+  </paragraph>
+</document>

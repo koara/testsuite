@@ -1,0 +1,7 @@
+<document>
+  <paragraph>
+    <text>Leading space is trimmed.</text>
+    <linebreak explicit="true"/>
+    <text>Leading space is trimmed.</text>
+  </paragraph>
+</document>

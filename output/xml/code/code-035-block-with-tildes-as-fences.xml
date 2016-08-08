@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <text>~~~</text>
+    <linebreak explicit="false"/>
+    <text>This is just text</text>
+    <linebreak explicit="false"/>
+    <text>~~~</text>
+  </paragraph>
+</document>

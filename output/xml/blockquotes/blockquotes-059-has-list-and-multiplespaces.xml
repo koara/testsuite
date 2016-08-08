@@ -1,0 +1,18 @@
+<document>
+  <blockquote>
+      <list ordered="false">
+        <listitem>
+          <paragraph>
+            <text>A</text>
+          </paragraph>
+          <list ordered="false">
+            <listitem>
+              <paragraph>
+                <text>B</text>
+              </paragraph>
+            </listitem>
+          </list>
+        </listitem>
+      </list>
+  </blockquote>
+</document>

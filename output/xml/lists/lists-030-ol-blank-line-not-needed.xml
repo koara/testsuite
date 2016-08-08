@@ -1,0 +1,14 @@
+<document>
+  <paragraph>
+    <text>one</text>
+  </paragraph>
+  <list ordered="true">
+    <listitem number="1">
+      <paragraph>
+        <text>two</text>
+        <linebreak explicit="false"/>
+        <text>three</text>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

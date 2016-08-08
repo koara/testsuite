@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <text>Blank lines around</text>
+    <linebreak explicit="false"/>
+    <text>======= headings</text>
+    <linebreak explicit="false"/>
+    <text>are not required.</text>
+  </paragraph>
+</document>

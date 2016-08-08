@@ -1,0 +1,17 @@
+<document>
+  <paragraph>
+    <code>
+      <text> </text>
+    </code>
+    <text> </text>
+    <text>`</text>
+    <linebreak explicit="false"/>
+    <text>With spaces</text>
+    <linebreak explicit="false"/>
+    <code>
+      <text> </text>
+    </code>
+    <text> </text>
+    <text>`</text>
+  </paragraph>
+</document>

@@ -1,0 +1,12 @@
+<document>
+  <paragraph>
+    <text>[</text>
+    <text>image:</text>
+    <strong>
+      <text>multiline</text>
+      <linebreak explicit="false"/>
+      <text>images</text>
+    </strong>
+    <text>] are not allowed</text>
+  </paragraph>
+</document>

@@ -1,0 +1,10 @@
+<document>
+  <paragraph>
+    <text>You can format </text>
+    <strong>
+      <text>more than</text>
+      <linebreak explicit="false"/>
+      <text>one line</text>
+    </strong>
+  </paragraph>
+</document>

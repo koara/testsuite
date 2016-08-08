@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <link url="http://but.not.in/*url*">
+      <strong>
+        <text>this works</text>
+      </strong>
+    </link>
+  </paragraph>
+</document>

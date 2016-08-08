@@ -1,0 +1,11 @@
+<document>
+  <blockquote>
+      <paragraph>
+        <text>this </text>
+        <strong>
+          <text>is strong</text>
+        </strong>
+        <text> text</text>
+      </paragraph>
+  </blockquote>
+</document>

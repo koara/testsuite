@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <text>This</text>
+    <linebreak explicit="false"/>
+    <text>- line is</text>
+    <linebreak explicit="false"/>
+    <text>1. paragraph</text>
+  </paragraph>
+</document>

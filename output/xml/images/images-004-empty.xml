@@ -1,0 +1,13 @@
+<document>
+  <paragraph>
+    <text>Empty images </text>
+    <link url="">
+      <text>image:</text>
+    </link>
+    <text> and </text>
+    <link url="">
+      <text>image:</text>
+    </link>
+    <text> are not allowed. These are just a links.</text>
+  </paragraph>
+</document>

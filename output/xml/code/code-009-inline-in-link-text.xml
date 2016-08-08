@@ -1,0 +1,11 @@
+<document>
+  <paragraph>
+    <link url="http://www.koara.io">
+      <text>link </text>
+      <code>
+        <text>test</text>
+      </code>
+    </link>
+    <text> can contain inline code</text>
+  </paragraph>
+</document>

@@ -1,0 +1,9 @@
+<document>
+  <paragraph>
+    <text>Stay in the same</text>
+    <linebreak explicit="false"/>
+    <text>= paragraph</text>
+    <linebreak explicit="false"/>
+    <text>when heading is escaped</text>
+  </paragraph>
+</document>

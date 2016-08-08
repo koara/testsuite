@@ -1,0 +1,7 @@
+<document>
+  <paragraph>
+    <image url="/url%20with%20space">
+      <text>image</text>
+    </image>
+  </paragraph>
+</document>

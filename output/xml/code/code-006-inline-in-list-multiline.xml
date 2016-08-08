@@ -1,0 +1,13 @@
+<document>
+  <list ordered="false">
+    <listitem>
+      <paragraph>
+        <code>
+          <text>Inline code in lists</text>
+          <linebreak explicit="false"/>
+          <text>can be multiline</text>
+        </code>
+      </paragraph>
+    </listitem>
+  </list>
+</document>

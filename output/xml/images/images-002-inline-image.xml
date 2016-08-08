@@ -1,0 +1,8 @@
+<document>
+  <paragraph>
+    <text>This is an </text>
+    <image url="http://www.koara.io/logo.png">
+      <text>inline image</text>
+    </image>
+  </paragraph>
+</document>

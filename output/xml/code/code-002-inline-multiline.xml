@@ -1,0 +1,10 @@
+<document>
+  <paragraph>
+    <text>Inline </text>
+    <code>
+      <text>code can span</text>
+      <linebreak explicit="false"/>
+      <text>multiple lines</text>
+    </code>
+  </paragraph>
+</document>
