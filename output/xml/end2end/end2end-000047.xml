@@ -4,22 +4,22 @@
   </heading>
   <paragraph>
     <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus vitae ex nec accumsan. Vestibulum</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>id lobortis metus, in congue tellus. In condimentum, magna id dapibus molestie, nisl sem varius tortor,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>eu convallis tellus justo fermentum diam. Donec congue metus sed arcu malesuada, id molestie purus </text>
     <strong>
       <text>tincidunt. </text>
       <text>`</text>
-      <linebreak />
+      <linebreak explicit="false"/>
       <text>Vivamus</text>
     </strong>
     <text> id rutrum metus, et dictum augue. Donec est elit, tincidunt a dictum nec, suscipit vitae tellus.</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>Praesent commodo elit eu sapien eleifend commodo. Praesent nec magna porttitor, imperdiet elit eu,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>facilisis diam. Nullam eget condimentum diam. Nunc vitae odio erat. Cras euismod augue ac magna feugiat,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>vel eleifend odio lobortis. Morbi facilisis velit id libero cursus, in tempus nulla feugiat.</text>
   </paragraph>
   <list ordered="false">
@@ -46,7 +46,7 @@
     <listitem>
       <paragraph>
         <text>lacinia.</text>
-        <linebreak />
+        <linebreak explicit="false"/>
         <text>Quisque ultrices aliquam tellus vitae imperdiet.</text>
       </paragraph>
     </listitem>
@@ -83,9 +83,9 @@
       </em>
     </link>
     <text> purus sed finibus. Suspendisse aliquam facilisis magna, sed bibendum arcu rutrum</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>dapibus. In eget nisi non sem fringilla imperdiet quis in mi. Nam metus ante, luctus nec dolor a, efficitur</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>tristique orci. </text>
     <em>
       <strong>
@@ -102,9 +102,9 @@
       <text>image:enim</text>
     </link>
     <text>](http://www.koara.io) auctor pretium. Donec id lacus faucibus, semper felis sit amet,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>mollis nibh. Nunc sit amet nunc libero. Cras luctus pharetra magna at eleifend. Pellentesque rutrum ullamcorper</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>pulvinar. Fusce at convallis </text>
     <strong>
       <text>diam</text>
@@ -113,7 +113,7 @@
     <em>
       <text>`</text>
       <text>enim.</text>
-      <linebreak />
+      <linebreak explicit="false"/>
       <text>Nam vel</text>
       <text>`</text>
     </em>
@@ -130,7 +130,7 @@
       </strong>
     </em>
     <text> semper, ex vitae cursus ultrices, odio risus efficitur mi,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>at congue libero magna at mi.</text>
   </paragraph>
   <heading level="2">
@@ -145,15 +145,15 @@
     <text>Integer facilisis dui ac sagittis </text>
     <text>`</text>
     <text>venenatis. Aenean sit amet tincidunt nunc, eu aliquam mauris. Ut iaculis ipsum</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>et eros semper, et ultricies nibh</text>
     <text>`</text>
     <text> dapibus. Curabitur eget est eu odio scelerisque interdum. Nulla facilisi. Sed</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>porta enim in sapien euismod semper. Nunc commodo accumsan nunc id porttitor. Fusce luctus mattis lacus, quis sagittis</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>tellus feugiat ut. Nunc libero ante, auctor ut sapien eu, varius dapibus tellus. Phasellus ultricies varius purus at</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>semper. Vivamus sollicitudin placerat dignissim. In nisl nisl, consequat non ligula nec, tempor sodales lacus. Nunc non semper purus.</text>
   </paragraph>
   <paragraph>
@@ -161,7 +161,7 @@
     <text>`</text>
     <text>`</text>
     <text>java</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>Donec venenatis, massa pulvinar tincidunt </text>
     <link url="urna">
       <text>image:</text>
@@ -173,13 +173,13 @@
       </strong>
     </link>
     <text> vestibulum purus, vel dapibus lacus risus vel quam. Nam volutpat</text>
-    <linebreak />
+    <linebreak explicit="true"/>
     <text>efficitur nulla in tempor. </text>
     <text>[</text>
     <text> Nulla bibendum arcu quis nisi viverra varius. Proin non lobortis nulla. Suspendisse lacinia laoreet</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>metus id imperdiet. In hac habitasse platea dictumst. Nam viverra semper erat ut ultricies. Curabitur semper ullamcorper nisi</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>eget auctor. Sed auctor tellus in </text>
     <em>
       <link url="pretium">
@@ -189,7 +189,7 @@
     <text>. Phasellus sed tempus </text>
     <text>_</text>
     <text> quam. Etiam tincidunt mollis urna, ac egestas sem eleifend</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>quis. Integer fermentum ut nunc at lobortis. Quisque ac tincidunt quam.</text>
   </paragraph>
   <paragraph>
@@ -213,9 +213,9 @@
   </heading>
   <paragraph>
     <text>Quisque eget libero felis. Cras malesuada, ex nec condimentum pharetra, nulla odio volutpat augue, eu fringilla ligula est sed</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>libero. Nunc suscipit elit nec ipsum eleifend, vel viverra neque ornare. Morbi nec lobortis neque. Suspendisse erat enim,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>fringilla a maximus ut, rutrum quis lacus. </text>
     <link url="diam">
       <text>image:</text>
@@ -227,18 +227,18 @@
       </em>
     </link>
     <text> maximus lobortis. Integer magna risus, suscipit nec magna a,</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>bibendum pretium mauris. Mauris nec accumsan dolor, eu accumsan risus. Vestibulum facilisis venenatis eros sed commodo. Sed finibus</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>ultrices est eget mollis. Donec euismod tristique nisi, eget scelerisque diam vulputate sollicitudin. Cras ultricies a erat eget volutpat.</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>&gt; Nunc vitae urna lorem. Aliquam erat volutpat. Suspendisse vitae ligula pulvinar, commodo arcu eu,</text>
   </paragraph>
   <paragraph>
     <text>`</text>
     <text>`</text>
     <text>`</text>
-    <linebreak />
+    <linebreak explicit="false"/>
     <text>finibus neque.</text>
   </paragraph>
 </document>
